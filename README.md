@@ -7,8 +7,8 @@
 <br>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thegodempire17@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-sandhwar/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheGodVishnu21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_URL_YAHAN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishaan-sandhwar)
 
 ![Focus](https://img.shields.io/badge/%F0%9F%8E%AF_Focus-AI%2FML_Engineering-00D9FF?style=flat-square&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/%F0%9F%9F%A2_Status-Open_to_Internships-success?style=flat-square&labelColor=0D1117)
@@ -58,6 +58,21 @@ Most of my work sits around **retrieval and LLM pipelines**, with a stubborn hab
 
 ### 🚀 Featured Projects
 
+**🎓 Agentic AI for Academic Benefit Nomination — *Sep 2026***
+*EDU Revolution, Lovely Professional University*
+
+- Built a five-stage system that reads student achievement documents, checks eligibility against published rules, maps achievements to university courses, and drafts nominations for human approval.
+- Fine-tuned a bi-encoder on hard negatives mined from the retriever's own top-20 errors — **+0.454 MRR** over TF-IDF and **+0.133 P@1** over the zero-shot encoder on held-out queries.
+- Document-type classifier (MiniLM embeddings + keyword hybrid) reached **macro F1 0.916** against a 0.394 phrase-table baseline on a grouped unseen-template split.
+- Benchmarked a cross-encoder reranker, found it memorised training queries and transferred nothing (held-out separation −0.037), and **shipped it disabled** with the negative result documented.
+- Extraction cascade (PDF text layer → local OCR → vision LLM), inspectable rule engine, server-side RBAC, **1,071 tests**.
+
+**Stack:** `Python` `PyTorch` `Sentence Transformers` `FastAPI` `scikit-learn` `React` `TypeScript`
+
+🔒 *Private repository — graded academic deliverable. Walkthrough available on request.*
+
+<br>
+
 **🌆 LifeLine — Smart City Disaster Response & Evacuation Simulator — *Jul 2026***
 *Data Structures & Algorithms — Team of 5*
 
@@ -68,7 +83,7 @@ Most of my work sits around **retrieval and LLM pipelines**, with a stubborn hab
 
 **Stack:** `C++17` `React` `Vite` `Leaflet` `REST`
 
-🔗 [GitHub](https://github.com/TheGodVishnu21/lifeline) · [Live Demo](https://lifeline-31iq.onrender.com)
+🔗 [GitHub](https://github.com/ishaan-sandhwar/lifeline) · [Live Demo](https://lifeline-31iq.onrender.com)
 
 <br>
 
@@ -82,7 +97,7 @@ Most of my work sits around **retrieval and LLM pipelines**, with a stubborn hab
 
 **Stack:** `Python` `scikit-learn` `imbalanced-learn` `Streamlit` `Pandas`
 
-🔗 [GitHub](https://github.com/TheGodVishnu21/pso-fraud-feature-selection)
+🔗 [GitHub](https://github.com/ishaan-sandhwar/pso-fraud-feature-selection)
 
 <br>
 
@@ -96,7 +111,7 @@ Most of my work sits around **retrieval and LLM pipelines**, with a stubborn hab
 
 **Stack:** `Python` `LLMs` `RAG` `SQLite` `Knowledge Graphs`
 
-🔗 [GitHub](https://github.com/TheGodVishnu21/product-intelligence-engine) · [Live Demo](https://catalog-intelligence-engine.streamlit.app/)
+🔗 [GitHub](https://github.com/ishaan-sandhwar/product-intelligence-engine)
 
 ---
 
@@ -145,13 +160,13 @@ Completed a structured AI/ML training programme followed by an assigned capstone
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=TheGodVishnu21&hide_border=true&theme=tokyonight&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=ishaan-sandhwar&hide_border=true&theme=tokyonight&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 <br><br>
 
-![Followers](https://img.shields.io/github/followers/TheGodVishnu21?style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github&logoColor=white)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTheGodVishnu21&label=Public%20Repos&query=%24.public_repos&color=00D9FF&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/TheGodVishnu21?style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/ishaan-sandhwar?style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fishaan-sandhwar&label=Public%20Repos&query=%24.public_repos&color=00D9FF&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/ishaan-sandhwar?style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github&logoColor=white)
 
 </div>
 
