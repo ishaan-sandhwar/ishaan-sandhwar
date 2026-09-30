@@ -74,6 +74,20 @@ Most of my work sits around **retrieval and LLM pipelines**, with a stubborn hab
 
 <br>
 
+**🛡️ UPI Risk Desk — UPI Fraud Ring Detection & Merchant Risk Analytics — *Sep 2026***
+*TransOrg AgentIQ Datathon, Track 1 — Team of 5 · Best Pipeline Award*
+
+- Team project: a risk platform that turns **20,000 payments from four broken source systems** into one auditable model and a live analyst dashboard. **My part: data engineering and the analytics model.**
+- Cleaned and linked the four sources into a **star schema + SQLite model**, with every defect logged in a **70-check data-quality ledger** — 6 date formats, 6 ID spellings, 16 KYC status variants, 41 city spellings, amounts like `Rs. 6362.9` and `27.3k`. This is the cleaning pipeline behind the team's Best Pipeline Award.
+- Removed **400 duplicate payments** that would have inflated volume by **₹51.9 L**, and flagged **6,288 customer IDs** reused by different people instead of silently merging them.
+- Found that complaint-side IDs disagree with the payment they dispute, so disputes are attributed through `txn_id` — otherwise merchant ratios blame the wrong merchants.
+
+**Stack:** `Python` `pandas` `SQLite`
+
+🔗 [GitHub](https://github.com/ishaan-sandhwar/upi-risk-desk) *(fork of the team leader's repo)* · [Live Demo](https://adityashukla2615.github.io/upi-risk-desk/outputs/upi_risk_desk.html?v=2)
+
+<br>
+
 **🌆 LifeLine — Smart City Disaster Response & Evacuation Simulator — *Jul 2026***
 *Data Structures & Algorithms — Team of 5*
 
