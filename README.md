@@ -105,10 +105,10 @@ Most of my work sits around **retrieval and LLM pipelines**, with a stubborn hab
 **💳 PSO Feature Selection for Credit Card Fraud Detection — *Jul 2026***
 *Nature-Inspired Optimisation — Team of 2*
 
-- Implemented **binary Particle Swarm Optimisation from scratch** — sigmoid transfer function, repair mask, early stopping — for feature selection on a heavily imbalanced dataset (492 fraud cases, 0.98% positive rate).
-- Converged at iteration 18 of 50 with 30 particles, cutting **30 features down to 7**.
-- PSO + Random Forest reached **ROC-AUC 0.977 / PR-AUC 0.886 / F1 0.888**, against a full-feature logistic regression baseline at ROC-AUC 0.974 / PR-AUC 0.881 — ranking metrics improve while precision trades off.
-- Built a four-tab Streamlit dashboard with Parquet caching for **5–10× faster** repeat runs, plus 7 unit tests on the PSO core.
+- Implemented **binary Particle Swarm Optimisation from scratch** — sigmoid transfer function, repair mask, early stopping — for feature selection on a 50,000-row sample of the credit-card fraud data (all 492 frauds kept, 0.98% positive rate).
+- Early-stopped at iteration 18 of 50 with 30 particles, cutting **30 features down to 7**.
+- Checked the cut against the same random forest on all 30 features: ROC-AUC **0.977 vs 0.986**, PR-AUC **0.886 vs 0.898**, both inside bootstrap noise on a 98-fraud test set — a **77% smaller model at no detectable loss**. Decision thresholds are tuned on a validation split, never the test set.
+- Built a four-tab Streamlit dashboard with Parquet caching (~20× faster data loading), plus 7 unit tests on the PSO core.
 
 **Stack:** `Python` `scikit-learn` `imbalanced-learn` `Streamlit` `Pandas`
 
