@@ -6,9 +6,10 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thegodempire17@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_URL_YAHAN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishaansandhwar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-sandhwar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishaan-sandhwar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://ishaansandhwar.netlify.app/)
 
 ![Focus](https://img.shields.io/badge/%F0%9F%8E%AF_Focus-AI%2FML_Engineering-00D9FF?style=flat-square&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/%F0%9F%9F%A2_Status-Open_to_Internships-success?style=flat-square&labelColor=0D1117)
@@ -126,6 +127,7 @@ Completed a structured AI/ML training programme followed by an assigned capstone
 
 |  | Title | Where | When |
 | --- | --- | --- | --- |
+| 🏆 | **Best Pipeline Award** — TransOrg AgentIQ Datathon, Track 1 (team entry) | TransOrg | 2026 |
 | 🥉 | **Top 30 Finalist** — CodeXtreme 4.0 Java Coding Contest | Lovely Professional University × iamneo | 2026 |
 | 🎖️ | **Participant** — Algo Arena 2.0, two-day coding competition | WeInnova8, hosted on TheEduCode | 2026 |
 
