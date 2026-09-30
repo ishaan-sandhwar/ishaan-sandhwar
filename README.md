@@ -91,10 +91,10 @@ Most of my work sits around **retrieval and LLM pipelines**, with a stubborn hab
 **🌆 LifeLine — Smart City Disaster Response & Evacuation Simulator — *Jul 2026***
 *Data Structures & Algorithms — Team of 5*
 
-- Built a disaster response simulator over a fictional city of **40 locations and 83 roads**, served as a single static binary from a zero-dependency C++17 backend.
-- Implemented min-heap, max-heap, djb2 hash map, trie and Union-Find **from scratch** instead of using the STL.
-- Shipped 10+ graph algorithms — Dijkstra, A\*, Bellman-Ford, Floyd-Warshall, Edmonds-Karp max-flow/min-cut, Tarjan bridges, Prim/Kruskal MST, 0/1 knapsack DP.
-- Verified correctness against networkx over **1,600+ node pairs** across 96 checks in 5 test suites; A\* settles 8 nodes where Dijkstra settles 24 on the same 4.78 km path.
+- Built a disaster response simulator over a fictional city of **40 locations and 83 roads**, served by a zero-dependency C++17 backend that ships the API and the React frontend in one binary.
+- Implemented min-heap, max-heap, djb2 hash map, trie and Union-Find **from scratch** instead of their STL equivalents.
+- Shipped 10+ algorithms — Dijkstra, A\*, Bellman-Ford, Floyd-Warshall, Edmonds-Karp max-flow/min-cut, Tarjan bridges, Prim/Kruskal MST, 0/1 knapsack DP.
+- **96 checks across 5 test suites**: Bellman-Ford and Floyd-Warshall match Dijkstra on all 1,600 city pairs, and bridges, articulation points and MST match an independent Python verifier. A\* settles 10 nodes where Dijkstra settles 35 on the same 4.78 km path.
 
 **Stack:** `C++17` `React` `Vite` `Leaflet` `REST`
 
