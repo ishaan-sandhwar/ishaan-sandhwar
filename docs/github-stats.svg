@@ -3,7 +3,7 @@
 <rect width="1280" height="372" rx="18" fill="url(#bg)"/>
 <rect x="1" y="1" width="1278" height="370" rx="17" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
 <text x="36" y="46" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="22" font-weight="700" fill="#ffffff">GitHub snapshot</text>
-<text x="1244" y="46" text-anchor="end" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" fill="#8b98ab">public data for @ishaan-sandhwar · updated 2026-10-09</text>
+<text x="1244" y="46" text-anchor="end" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" fill="#8b98ab">public data for @ishaan-sandhwar · updated 2026-10-10</text>
 <rect x="36" y="56" width="120" height="3" rx="1.5" fill="url(#ac)"/>
 <rect x="36" y="80" width="160" height="84" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.10"/>
 <text x="116.0" y="118" text-anchor="middle" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="28" font-weight="800" fill="#ffffff">285</text>
@@ -15,7 +15,7 @@
 <text x="460.0" y="118" text-anchor="middle" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="28" font-weight="800" fill="#ffffff">5 days</text>
 <text x="460.0" y="142" text-anchor="middle" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="12.5" fill="#a8b3c4">longest streak</text>
 <rect x="36" y="176" width="160" height="84" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.10"/>
-<text x="116.0" y="214" text-anchor="middle" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="28" font-weight="800" fill="#ffffff">2 days</text>
+<text x="116.0" y="214" text-anchor="middle" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="28" font-weight="800" fill="#ffffff">0 days</text>
 <text x="116.0" y="238" text-anchor="middle" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="12.5" fill="#a8b3c4">current streak</text>
 <rect x="208" y="176" width="160" height="84" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.10"/>
 <text x="288.0" y="214" text-anchor="middle" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="28" font-weight="800" fill="#ffffff">8</text>
@@ -406,6 +406,7 @@
 <rect x="1239.2" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
 <rect x="1239.2" y="150.4" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.81"/>
 <rect x="1239.2" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1239.2" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <text x="584" y="211.2" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="11" fill="#8b98ab">Less</text>
 <rect x="616" y="202.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="630" y="202.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
