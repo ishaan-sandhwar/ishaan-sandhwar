@@ -3,7 +3,7 @@
 <rect width="1280" height="372" rx="18" fill="url(#bg)"/>
 <rect x="1" y="1" width="1278" height="370" rx="17" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
 <text x="36" y="46" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="22" font-weight="700" fill="#ffffff">GitHub snapshot</text>
-<text x="1244" y="46" text-anchor="end" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" fill="#8b98ab">public data for @ishaan-sandhwar · updated 2026-10-10</text>
+<text x="1244" y="46" text-anchor="end" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" fill="#8b98ab">public data for @ishaan-sandhwar · updated 2026-10-11</text>
 <rect x="36" y="56" width="120" height="3" rx="1.5" fill="url(#ac)"/>
 <rect x="36" y="80" width="160" height="84" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.10"/>
 <text x="116.0" y="118" text-anchor="middle" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="28" font-weight="800" fill="#ffffff">285</text>
@@ -25,7 +25,6 @@
 <text x="460.0" y="238" text-anchor="middle" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="12.5" fill="#a8b3c4">followers</text>
 <text x="584" y="82" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="12.5" fill="#8b98ab">Contributions over the last year</text>
 <rect x="584.0" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<text x="584.0" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Oct</text>
 <rect x="584.0" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="584.0" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="584.0" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -35,18 +34,19 @@
 <rect x="596.6" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="596.6" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="596.6" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="596.6" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="596.6" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
 <rect x="596.6" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="596.6" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="596.6" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="609.2" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="609.2" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="609.2" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="609.2" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="609.2" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="609.2" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="609.2" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="609.2" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="621.8" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<text x="621.8" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Nov</text>
 <rect x="621.8" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="621.8" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="621.8" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -54,7 +54,6 @@
 <rect x="621.8" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="621.8" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="634.4" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<text x="634.4" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Nov</text>
 <rect x="634.4" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="634.4" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="634.4" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -83,17 +82,17 @@
 <rect x="672.2" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="672.2" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="684.8" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="684.8" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<text x="684.8" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Dec</text>
+<rect x="684.8" y="112.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
 <rect x="684.8" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="684.8" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="684.8" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
 <rect x="684.8" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="684.8" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="684.8" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="697.4" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<text x="697.4" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Dec</text>
-<rect x="697.4" y="112.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="697.4" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="697.4" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="697.4" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="697.4" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="697.4" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="697.4" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="697.4" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -112,6 +111,7 @@
 <rect x="722.6" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="722.6" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="735.2" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<text x="735.2" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Jan</text>
 <rect x="735.2" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="735.2" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="735.2" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -119,7 +119,6 @@
 <rect x="735.2" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="735.2" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="747.8" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<text x="747.8" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Jan</text>
 <rect x="747.8" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="747.8" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="747.8" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -137,31 +136,31 @@
 <rect x="773.0" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="773.0" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="773.0" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="773.0" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="773.0" y="150.4" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
 <rect x="773.0" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="773.0" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="785.6" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<text x="785.6" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Feb</text>
 <rect x="785.6" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="785.6" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="785.6" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="785.6" y="150.4" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
+<rect x="785.6" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="785.6" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="785.6" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="798.2" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<text x="798.2" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Feb</text>
 <rect x="798.2" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="798.2" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="798.2" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="798.2" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="798.2" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="798.2" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="798.2" y="175.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
 <rect x="810.8" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="810.8" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="810.8" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="810.8" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="810.8" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="810.8" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="810.8" y="175.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="810.8" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="823.4" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="823.4" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="823.4" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -170,6 +169,7 @@
 <rect x="823.4" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="823.4" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="836.0" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<text x="836.0" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Mar</text>
 <rect x="836.0" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="836.0" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="836.0" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -177,7 +177,6 @@
 <rect x="836.0" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="836.0" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="848.6" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<text x="848.6" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Mar</text>
 <rect x="848.6" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="848.6" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="848.6" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -199,50 +198,50 @@
 <rect x="873.8" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="873.8" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="886.4" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="886.4" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="886.4" y="112.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
 <rect x="886.4" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="886.4" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="886.4" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="886.4" y="150.4" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
 <rect x="886.4" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="886.4" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="899.0" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="899.0" y="100.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<text x="899.0" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Apr</text>
 <rect x="899.0" y="112.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
-<rect x="899.0" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="899.0" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="899.0" y="150.4" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="899.0" y="125.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="899.0" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="899.0" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="899.0" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="899.0" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="911.6" y="100.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
-<text x="911.6" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Apr</text>
-<rect x="911.6" y="112.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
-<rect x="911.6" y="125.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
-<rect x="911.6" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="911.6" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="911.6" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="911.6" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="911.6" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="911.6" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="911.6" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="911.6" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="924.2" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="924.2" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="924.2" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="924.2" y="112.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="924.2" y="125.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
 <rect x="924.2" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="924.2" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="924.2" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="924.2" y="163.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
 <rect x="924.2" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="936.8" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="936.8" y="112.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
-<rect x="936.8" y="125.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
-<rect x="936.8" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="936.8" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="936.8" y="125.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="936.8" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
 <rect x="936.8" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="936.8" y="163.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="936.8" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="936.8" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="949.4" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<text x="949.4" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">May</text>
 <rect x="949.4" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="949.4" y="125.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
-<rect x="949.4" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="949.4" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="949.4" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="949.4" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="949.4" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="949.4" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="962.0" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<text x="962.0" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">May</text>
 <rect x="962.0" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="962.0" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="962.0" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -271,6 +270,7 @@
 <rect x="999.8" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="999.8" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1012.4" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<text x="1012.4" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Jun</text>
 <rect x="1012.4" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1012.4" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1012.4" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -278,7 +278,6 @@
 <rect x="1012.4" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1012.4" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1025.0" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<text x="1025.0" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Jun</text>
 <rect x="1025.0" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1025.0" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1025.0" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -300,6 +299,7 @@
 <rect x="1050.2" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1050.2" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1062.8" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<text x="1062.8" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Jul</text>
 <rect x="1062.8" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1062.8" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1062.8" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -307,28 +307,28 @@
 <rect x="1062.8" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1062.8" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1075.4" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<text x="1075.4" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Jul</text>
 <rect x="1075.4" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1075.4" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1075.4" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1075.4" y="125.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
+<rect x="1075.4" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
 <rect x="1075.4" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1075.4" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1075.4" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1088.0" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1075.4" y="175.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="1088.0" y="100.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
 <rect x="1088.0" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1088.0" y="125.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
-<rect x="1088.0" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
-<rect x="1088.0" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1088.0" y="125.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="1088.0" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1088.0" y="150.4" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
 <rect x="1088.0" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1088.0" y="175.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
-<rect x="1100.6" y="100.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="1088.0" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1100.6" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1100.6" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1100.6" y="125.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="1100.6" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1100.6" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1100.6" y="150.4" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="1100.6" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1100.6" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1100.6" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1113.2" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<text x="1113.2" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Aug</text>
 <rect x="1113.2" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1113.2" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1113.2" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -336,7 +336,6 @@
 <rect x="1113.2" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1113.2" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1125.8" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<text x="1125.8" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Aug</text>
 <rect x="1125.8" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1125.8" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1125.8" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
@@ -347,66 +346,61 @@
 <rect x="1138.4" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1138.4" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1138.4" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1138.4" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1138.4" y="150.4" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
 <rect x="1138.4" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1138.4" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1151.0" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1151.0" y="100.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
 <rect x="1151.0" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1151.0" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1151.0" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1151.0" y="150.4" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
-<rect x="1151.0" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1151.0" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="1151.0" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1151.0" y="163.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
 <rect x="1151.0" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1163.6" y="100.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
+<rect x="1163.6" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1163.6" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1163.6" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1163.6" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="1163.6" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
 <rect x="1163.6" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1163.6" y="163.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="1163.6" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1163.6" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1176.2" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1176.2" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1176.2" y="100.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<text x="1176.2" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Sep</text>
+<rect x="1176.2" y="112.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
 <rect x="1176.2" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1176.2" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
+<rect x="1176.2" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
 <rect x="1176.2" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1176.2" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1176.2" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1188.8" y="100.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
-<text x="1188.8" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Sep</text>
-<rect x="1188.8" y="112.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
+<rect x="1188.8" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1188.8" y="112.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
 <rect x="1188.8" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1188.8" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
-<rect x="1188.8" y="150.4" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1188.8" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1188.8" y="150.4" width="10" height="10" rx="2.2" fill="#c084fc" fill-opacity="1.00"/>
 <rect x="1188.8" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1188.8" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1201.4" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1201.4" y="112.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
-<rect x="1201.4" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1201.4" y="137.8" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1201.4" y="150.4" width="10" height="10" rx="2.2" fill="#c084fc" fill-opacity="1.00"/>
-<rect x="1201.4" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1201.4" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1214.0" y="100.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="1201.4" y="100.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="1201.4" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1201.4" y="125.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.81"/>
+<rect x="1201.4" y="137.8" width="10" height="10" rx="2.2" fill="#c084fc" fill-opacity="1.00"/>
+<rect x="1201.4" y="150.4" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
+<rect x="1201.4" y="163.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="1201.4" y="175.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
+<rect x="1214.0" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1214.0" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1214.0" y="125.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.81"/>
-<rect x="1214.0" y="137.8" width="10" height="10" rx="2.2" fill="#c084fc" fill-opacity="1.00"/>
-<rect x="1214.0" y="150.4" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
+<rect x="1214.0" y="125.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="1214.0" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
+<rect x="1214.0" y="150.4" width="10" height="10" rx="2.2" fill="#c084fc" fill-opacity="1.00"/>
 <rect x="1214.0" y="163.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
-<rect x="1214.0" y="175.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
+<rect x="1214.0" y="175.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.81"/>
 <rect x="1226.6" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1226.6" y="112.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1226.6" y="125.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<text x="1226.6" y="94" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="10.5" fill="#8b98ab">Oct</text>
+<rect x="1226.6" y="112.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
+<rect x="1226.6" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1226.6" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
-<rect x="1226.6" y="150.4" width="10" height="10" rx="2.2" fill="#c084fc" fill-opacity="1.00"/>
-<rect x="1226.6" y="163.0" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
-<rect x="1226.6" y="175.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.81"/>
+<rect x="1226.6" y="150.4" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.81"/>
+<rect x="1226.6" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
+<rect x="1226.6" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="1239.2" y="100.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1239.2" y="112.6" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
-<rect x="1239.2" y="125.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1239.2" y="137.8" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.64"/>
-<rect x="1239.2" y="150.4" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.81"/>
-<rect x="1239.2" y="163.0" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
-<rect x="1239.2" y="175.6" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <text x="584" y="211.2" font-family='"Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="11" fill="#8b98ab">Less</text>
 <rect x="616" y="202.2" width="10" height="10" rx="2.2" fill="#ffffff" fill-opacity="0.07"/>
 <rect x="630" y="202.2" width="10" height="10" rx="2.2" fill="#60a5fa" fill-opacity="0.47"/>
